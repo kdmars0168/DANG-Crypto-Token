@@ -1,11 +1,11 @@
 Preview:
 Internet Unique ID Identifier
-![image](https://github.com/vaibhav-oo7/crypto-token/assets/97470918/37a67dac-8036-4b3b-ba9a-43fd99716651)
-![image](https://github.com/vaibhav-oo7/crypto-token/assets/97470918/8a5eacd8-017f-4aaa-9940-116fb275efe6)
+![image](https://github.com/TanujJha/Crypto-Token-Wallet/assets/97455430/0cfdc4ed-780d-4af3-8806-d839f43c4413)
+![image](https://github.com/TanujJha/Crypto-Token-Wallet/assets/97455430/317612e1-b40f-418f-8468-b5937c1e5a5a)
 
 Wallet
 
-![image](https://github.com/vaibhav-oo7/crypto-token/assets/97470918/8040292b-7743-4f90-b79f-2b5380159178)
+![image](https://github.com/TanujJha/Crypto-Token-Wallet/assets/97455430/21c95e83-bbb1-41d2-8e58-3e87f5be7095)
 
 # Check your Balance
 
